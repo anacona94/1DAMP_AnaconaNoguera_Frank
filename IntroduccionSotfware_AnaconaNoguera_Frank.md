@@ -14,7 +14,7 @@ Fuente: [Aulascript](https://www.aulascript.com/programar/programas.htm)
 
 
 
-!\[Programa informático](images/aulascript.png)
+![Programa informático](images/aulascript.png)
 
 
 
@@ -60,5 +60,5 @@ Fuente: [Certus](https://www.certus.edu.pe/blog/las-etapas-del-desarrollo-de-sof
 
 
 
-Enlace al repositorio [Aquí.](https://github.com/anacona94/1DAMP_AnaconaNoguera_FrankDavid/tree/main) 
+Enlace al repositorio [Aquí.](https://github.com/anacona94/1DAMP_AnaconaNoguera_Frank/tree/main) 
 
